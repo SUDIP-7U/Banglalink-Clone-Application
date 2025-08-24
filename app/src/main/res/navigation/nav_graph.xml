@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/homeFragment">
+
+    <fragment
+        android:id="@+id/homeFragment"
+        android:name="com.example.banglalinkclone.HomeFragment"
+        android:label="Home">
+
+        <action
+            android:id="@+id/action_home_to_packages"
+            app:destination="@id/packagesFragment"/>
+
+    </fragment>
+
+    <fragment
+        android:id="@+id/packagesFragment"
+        android:name="com.example.banglalinkclone.PackagesFragment"
+        android:label="Packages"/>
+
+    <fragment
+        android:id="@+id/historyFragment"
+        android:name="com.example.banglalinkclone.HistoryFragment"
+        android:label="History"/>
+
+    <fragment
+        android:id="@+id/profileFragment"
+        android:name="com.example.banglalinkclone.ProfileFragment"
+        android:label="Profile"/>
+
+</navigation>

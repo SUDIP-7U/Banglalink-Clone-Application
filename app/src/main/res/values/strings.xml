@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">Banglalink Clone</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="go_to_packages">Go to Packages</string>
+    <string name="home_screen">Home Screen</string>
+    <string name="balance_120">Balance: ৳120</string>
+    <string name="packages_screen">Packages Screen</string>
+    <string name="history_screen">History Screen</string>
+    <string name="profile_screen">Profile Screen</string>
+    <string name="name_test_user">Name: Test User</string>
+    <string name="phone_01xxxxxxxxx">Phone: 01XXXXXXXXX</string>
+    <string name="login_title">Welcome</string>
+    <string name="login_subtitle">Sign in with your Banglalink number</string>
+    <string name="phone_hint">01XXXXXXXXX</string>
+    <string name="get_otp">Get OTP</string>
+    <string name="enter_otp">Enter OTP</string>
+    <string name="verify">Verify</string>
+
+
+    <string name="tab_home">Home</string>
+    <string name="tab_offers">Offers</string>
+    <string name="tab_recharge">Recharge</string>
+    <string name="tab_history">History</string>
+    <string name="tab_profile">Profile</string>
+
+
+    <string name="balance">Balance</string>
+    <string name="internet">Internet</string>
+    <string name="minutes">Minutes</string>
+    <string name="sms">SMS</string>
+    <string name="recharge_quick">Quick Recharge</string>
+    <string name="buy_packs">Buy Packs</string>
+</resources>

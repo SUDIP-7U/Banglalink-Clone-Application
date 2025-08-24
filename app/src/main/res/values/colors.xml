@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="brand_orange">#FF6A00</color>
+    <color name="brand_orange_dark">#E65F00</color>
+    <color name="brand_green">#10B981</color>
+    <color name="brand_bg">#FFF8F3</color>
+    <color name="surface_elev">#FFFFFFFF</color>
+    <color name="text_primary">#111827</color>
+    <color name="text_secondary">#6B7280</color>
+</resources>
